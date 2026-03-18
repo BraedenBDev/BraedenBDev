@@ -59,3 +59,4 @@ Speaker at MWC Barcelona and Club GLOBALS GST on AI agents and the shift from at
 ![](https://komarev.com/ghpvc/?username=BraedenBDev&color=grey&style=flat&label=profile+views)
 
 </div>
+
