@@ -4,7 +4,7 @@
 
 **Creative Technologist · Barcelona / Dubai**
 
-I build campaign experiences and agency tooling to redefine how advertising works. 6+ years in the industry, from copywriting to code. Currently CTO at [Almost a Lab](https://almostalab.io) and Head of Technology at [Almost Impossible Agency](https://almostimpossible.ae).
+I build campaign experiences and agency tooling to redefine how advertising works. 8+ years in the industry, from copywriting to code. Currently CTO at [Almost a Lab](https://almostalab.io) and Head of Technology at [Almost Impossible Agency](https://almostimpossible.agency).
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/braeden-bihag)
 [![Website](https://img.shields.io/badge/almostalab.io-000?style=flat&logo=safari&logoColor=white)](https://almostalab.io)
