@@ -47,8 +47,9 @@ Speaker at MWC Barcelona and Club GLOBALS GST on AI agents and the shift from at
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BraedenBDev&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraedenBDev&layout=compact&theme=default&hide_border=true" alt="Top languages" height="165" />
+<img src="https://streak-stats.demolab.com?user=BraedenBDev&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BraedenBDev&hide_border=true&theme=minimal" alt="Contribution Graph" />
 
 </div>
 
