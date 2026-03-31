@@ -1,10 +1,10 @@
-<div align="center">
+a<div align="center">
 
 # Hey, I'm Braeden
 
 **Co-founder & CTO at [Almost a Lab](https://almostalab.io) · Barcelona**
 
-I build open source tools for AI-assisted development and agency infrastructure. Background in industrial design engineering, experience design, and copywriting. I ended up in code because the tools I needed didn't exist, so I built them.
+I build tools for AI-assisted creative development and agency infrastructure. Background in industrial design engineering, experience design, and copywriting. I ended up in code because the tools I needed didn't exist, so I built them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/braeden-bihag)
 [![Website](https://img.shields.io/badge/almostalab.io-000?style=flat&logo=safari&logoColor=white)](https://almostalab.io)
