@@ -2,9 +2,9 @@
 
 # Hey, I'm Braeden
 
-**Creative Technologist · Barcelona / Dubai**
+**Co-founder & CTO at [Almost a Lab](https://almostalab.io) · Barcelona**
 
-I build campaign experiences and agency tooling to redefine how advertising works. 8+ years in the industry, from copywriting to code. Currently CTO at [Almost a Lab](https://almostalab.io) and Head of Technology at [Almost Impossible Agency](https://almostimpossible.agency).
+I build open source tools for AI-assisted development and agency infrastructure. Background in industrial design engineering, experience design, and copywriting. I ended up in code because the tools I needed didn't exist, so I built them.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/braeden-bihag)
 [![Website](https://img.shields.io/badge/almostalab.io-000?style=flat&logo=safari&logoColor=white)](https://almostalab.io)
@@ -13,16 +13,11 @@ I build campaign experiences and agency tooling to redefine how advertising work
 
 ---
 
-### What I do
-
-I write code that ships campaigns, builds internal tools, and makes agencies faster. Over 30 projects deployed for internal use across clients — everything from interactive activations and digital signage to AI-powered creative pipelines and self-hosted infrastructure.
-
-My background is Industrial Design Engineering, Strategy, and Copywriting. I ended up in code because the tools I needed didn't exist, so I built them.
-
 ### Open source
 
-- 🔒 **[Obscura](https://github.com/BraedenBDev/obscura)** — Real-time PII detection & anonymization for AI workflows. Chrome extension + local Python backend powered by GLiNER.
-- 🎯 **PointDev** *(coming soon)* — Browser-native visual feedback for vibe coders. Point at anything, describe the change, ship it.
+- **[PointDev](https://github.com/BraedenBDev/pointdev)** — Open structured context capture for human-to-AI communication on the web. Chrome MV3 extension that fuses voice narration, spatial annotations, and cursor behavior with DOM context into structured output for AI coding agents. 118 commits, 1,188 unit tests, v0.1.0 tagged. MIT licensed. NLnet NGI Zero Commons Fund applicant.
+
+- **[Obscura](https://github.com/BraedenBDev/obscura)** — Real-time PII detection and anonymization for AI workflows. Chrome extension + local Python backend powered by GLiNER. 331+ tests.
 
 ### Tech I work with
 
@@ -41,7 +36,7 @@ My background is Industrial Design Engineering, Strategy, and Copywriting. I end
 
 Cannes Young Lions · MENA Smarties · MENA Effies Shortlist · Campaign Creative Faces to Watch 2024
 
-Speaker at MWC Barcelona and Club GLOBALS GST on AI agents and the shift from attention to selection economy.
+Speaker at MWC Barcelona 2025 and 2026 on AI agents and the shift from attention economy to selection economy.
 
 ### GitHub Stats
 
@@ -60,4 +55,3 @@ Speaker at MWC Barcelona and Club GLOBALS GST on AI agents and the shift from at
 ![](https://komarev.com/ghpvc/?username=BraedenBDev&color=grey&style=flat&label=profile+views)
 
 </div>
-
