@@ -17,6 +17,8 @@ I build tools for AI-assisted creative development and agency infrastructure. Ba
 
 - **[PointDev](https://github.com/BraedenBDev/pointdev)** — Open structured context capture for human-to-AI communication on the web. Chrome MV3 extension that fuses voice narration, spatial annotations, and cursor behavior with DOM context into structured output for AI coding agents. 118 commits, 1,188 unit tests, v0.1.0 tagged. MIT licensed. NLnet NGI Zero Commons Fund applicant.
 
+- **[crawl-sim](https://github.com/BraedenBDev/crawl-sim)** — Agent-native multi-bot web crawler simulator. Audits any URL through the eyes of Googlebot, GPTBot, ClaudeBot, and PerplexityBot with quantified per-bot scoring, JS render-delta differentiation, and a three-layer output (score card + narrative audit + JSON report). Ships as a Claude Code skill backed by standalone shell scripts (`curl` + `jq` only). Published on npm as [@braedenbuilds/crawl-sim](https://www.npmjs.com/package/@braedenbuilds/crawl-sim) with SLSA v1 provenance via GitHub Actions OIDC trusted publishing. MIT licensed.
+
 - **[Obscura](https://github.com/BraedenBDev/obscura)** — Real-time PII detection and anonymization for AI workflows. Chrome extension + local Python backend powered by GLiNER. 331+ tests.
 
 ### Tech I work with
